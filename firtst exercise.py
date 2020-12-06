@@ -1,0 +1,4 @@
+length_of_the_roller_coaster=0.75
+time=120
+average_speed=length_of_the_roller_coaster*time
+print(average_speed)

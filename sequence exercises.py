@@ -1,0 +1,7 @@
+surname=input("Enter the surname:")
+first_name=input("Enter the first name:")
+street=input("Enter the street:")
+number=input("Enter the number:")
+zip_code=input("Enter the zip code:")
+city=input("Enter the city:")
+print(first_name,surname,street,number,zip_code,city)
